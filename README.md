@@ -1,2 +1,2 @@
 # JavaSE
-JavaSE知识总结
+本人学习JavaSE知识所整理的课堂笔记与自己的总结。内容以马士兵老师的Java后端工程师课程JavaSE部分为主。
