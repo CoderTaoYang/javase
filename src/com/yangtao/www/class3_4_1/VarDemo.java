@@ -1,4 +1,4 @@
-package com.yangtao.www.class3_4;
+package com.yangtao.www.class3_4_1;
 
 /**
  * @author CoderYT
@@ -41,6 +41,7 @@ public class VarDemo {
         System.out.println(vd.age);
         vd.test();
         System.out.println(vd.age);
+
 
 
     }
