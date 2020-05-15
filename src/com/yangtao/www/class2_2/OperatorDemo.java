@@ -117,12 +117,16 @@ public class OperatorDemo{
         System.out.println(cc);
 
 
+        int random = (int)(Math.random()*26);
 
 
 
 
 
 
+    System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
+    int result = getFactorial(5);
+    System.out.println(result);
 
 
 
@@ -133,4 +137,16 @@ public class OperatorDemo{
 
 
     }
+    public static int getFactorial(int n){
+
+        int ret = 1;
+        for(int i=1;i<=n;i++){
+            ret *= i;
+        }
+
+        return ret;
+
+
+    }
 }
+
