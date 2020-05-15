@@ -153,6 +153,8 @@ public class IfDemo{
 
 
 
+        int[] arr = new int[3];
+
 
 
 
