@@ -1,4 +1,4 @@
-package com.yangtao.www.class6;
+package com.yangtao.www.class6.collection;
 
 import java.util.ArrayList;
 import java.util.Collection;
