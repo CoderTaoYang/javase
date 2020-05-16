@@ -1,4 +1,4 @@
-package com.yangtao.www.class6;
+package com.yangtao.www.class6.collection;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -49,6 +49,7 @@ public class IteratorDemo {
             Object o = iterator.next();
             if(o.equals(1)){
                 iterator.remove();
+
             }
             System.out.println(o);
         }
@@ -60,4 +61,5 @@ public class IteratorDemo {
 //            System.out.println(i);
 //        }
     }
+
 }
