@@ -1,4 +1,4 @@
-package com.yangtao.www.class6;
+package com.yangtao.www.class6.collection;
 
 /**
  * @author CoderYT
@@ -23,3 +23,4 @@ public class VectorDemo {
         System.out.println(vector);
     }
 }
+
